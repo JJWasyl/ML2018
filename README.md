@@ -8,5 +8,6 @@ Homework is cateorized by LAB number, all tested within the jupyter notebook env
 3. LAB5 Implementation of the Czekanowksi Dice index for image segmentation clustering
 4. DecisionTree Implementation of a decision tree data splitting algorithm
 5. Perceptron Implementation of a simple  binary perceptron
+6. Simple random forest code
 
 @Jakub Wasylkowski
